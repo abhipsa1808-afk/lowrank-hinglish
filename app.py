@@ -5,7 +5,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 from lora import inject_lora, LoRALinear
 from hinglish import MODEL_NAME, translate
 
-ADAPTER = "adapter/hinglish_lora_v2.pt" if os.path.exists("adapter/hinglish_lora_v2.pt") \
+ADAPTER = "adapter/hinglish_lora_v3.pt" if os.path.exists("adapter/hinglish_lora_v3.pt") \
     else "adapter/hinglish_lora.pt"
 
 
