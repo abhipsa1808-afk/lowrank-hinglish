@@ -1,0 +1,50 @@
+{
+  "base": {
+    "roman_pct": 90.0,
+    "word_f1": 5.0,
+    "demo": {
+      "I'll be late, start without me.": "I will be late, start without you.",
+      "Did you eat lunch?": "Did you eat lunch? - आप लिंकों के साथ चला गया है।",
+      "Don't worry, everything will be fine.": "Don't fret, everything shall turn out alright.",
+      "Can you send me the notes from today's class?": "Sure! Here is the translation of your English sentence into Hindi:\n\nCan you send me the notes from today's class?\n\nIn Hindi:\n\"आप यहाँ की स्थिति के लिए �",
+      "Have you seen the new movie? It's really good.": "Hinglish: \"Have ye seen the new movie? It's truly great.\"",
+      "Set an alarm for 7 am tomorrow": "Set a saath for 7 am tomorrow"
+    }
+  },
+  "v1": {
+    "roman_pct": 100.0,
+    "word_f1": 18.6,
+    "demo": {
+      "I'll be late, start without me.": "kya bhi me ke liye start karo",
+      "Did you eat lunch?": "kya me lunch ko ate hai",
+      "Don't worry, everything will be fine.": "Dhad ke liye ek bhi tak ek kya hoga",
+      "Can you send me the notes from today's class?": "mere class ko notes kya mere kitne hai",
+      "Have you seen the new movie? It's really good.": "mere kiya hai se mere kaise new movie ke liye baki mere kaam hai",
+      "Set an alarm for 7 am tomorrow": "Tomorrow ke liye 7 am ke liye alarm set kare"
+    }
+  },
+  "v2": {
+    "roman_pct": 100.0,
+    "word_f1": 20.9,
+    "demo": {
+      "I'll be late, start without me.": "mai mujhe pehle pahunchne ke liye chal raha hoon",
+      "Did you eat lunch?": "kya mai lunch chal rahi hai",
+      "Don't worry, everything will be fine.": "Don't worry kiya hai ki hum kuch haftey naa.",
+      "Can you send me the notes from today's class?": "kya ap mujhe aj ke liye notes bataiye",
+      "Have you seen the new movie? It's really good.": "kya apne naya kuch movie hai? Is it really good.",
+      "Set an alarm for 7 am tomorrow": "kal subah 7 baje ke liye alarm set kare"
+    }
+  },
+  "v3": {
+    "roman_pct": 100.0,
+    "word_f1": 25.7,
+    "demo": {
+      "I'll be late, start without me.": "maine lagata hoon, start karne mein kuch bhi.",
+      "Did you eat lunch?": "kya tumhara lunch dekhne ke liye?",
+      "Don't worry, everything will be fine.": "Don't worry, voh bhi fine hein",
+      "Can you send me the notes from today's class?": "kya tumne notes ko bhi kya jata hai?",
+      "Have you seen the new movie? It's really good.": "kya tumne dekhna hai ki is movie ka? yah bahut achchha hein",
+      "Set an alarm for 7 am tomorrow": "Set alarm 7 am tomorrow"
+    }
+  }
+}
