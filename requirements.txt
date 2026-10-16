@@ -1,3 +1,4 @@
-torch
-transformers>=5.0
-streamlit
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.1
+transformers==5.19.0
+streamlit==1.65.0
