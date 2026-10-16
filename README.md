@@ -5,7 +5,7 @@
 > Hinglish = Hindi written in English letters, mixed with English words, the way millions of Indians actually text:
 > *"kya ap mujhe aj ke class ka notes bhej sakte hai?"*
 
-🔗 **Live demo:** _coming soon_
+🔗 **Live demo:** https://lowrank-hinglish.streamlit.app
 
 ---
 
